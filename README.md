@@ -11,3 +11,4 @@ Start with: `npm run dev`
 - Using React Router
 - Implementing Routes using createBrowserRouter
 - React Router "Loaders"
+- Style applpication using TailwindCss
