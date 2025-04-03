@@ -12,3 +12,6 @@ Start with: `npm run dev`
 - Implementing Routes using createBrowserRouter
 - React Router "Loaders"
 - Style applpication using TailwindCss
+- Redux
+  - useSelectors
+  - Main store and slices
