@@ -18,3 +18,5 @@ Start with: `npm run dev`
   - Thunks
 - Fetch data with React Router
   - useFetcher hook
+- Update data without navigation
+  - useFetcher
