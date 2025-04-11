@@ -15,3 +15,6 @@ Start with: `npm run dev`
 - Redux
   - useSelectors
   - Main store and slices
+  - Thunks
+- Fetch data with React Router
+  - useFetcher hook
